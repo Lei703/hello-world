@@ -1,5 +1,3 @@
-# hello-world
-#python 模拟登陆过程
 # 模拟登陆过程
 # python 程序   练习
 
@@ -24,5 +22,5 @@ while r != 1:     #循环
     else: print('账号不存在，请重新输入')
         
 
-# 程序结束  运行成功
+
 
